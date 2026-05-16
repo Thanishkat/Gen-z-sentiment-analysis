@@ -1,6 +1,6 @@
 # 🧠 Gen-Z Slang Sentiment Analysis
 
-> *Can a neural network understand "no cap, that slapped fr fr"? Apparently yes — with 90% accuracy.*
+> *Can a neural network understand "no cap, that was cooked"? Apparently yes — with 90% accuracy.*
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square&logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?style=flat-square&logo=tensorflow)
