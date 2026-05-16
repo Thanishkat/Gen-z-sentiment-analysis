@@ -82,6 +82,8 @@ Input → Embedding Layer → Bi-LSTM → Dropout → Dense (Softmax) → 5 Clas
 | F1 Score (weighted) | ~0.90 |
 | Best Classes | Positive, Negative, Frustration |
 
+![Confusion Matrix](confusion_matrix.png)
+
 Evaluated using accuracy, per-class precision/recall/F1, and confusion matrix visualization.
 
 ---
@@ -114,7 +116,7 @@ jupyter notebook GenZ.ipynb
 
 **Thanishka Thatikonda**
 B.E. Mathematics and Computing, BITS Pilani
-[LinkedIn]((https://www.linkedin.com/in/thanishka-thatikonda-298273342/)) · [GitHub](https://github.com/YOUR_USERNAME)
+[LinkedIn](https://www.linkedin.com/in/thanishka-thatikonda-298273342/) · [GitHub](https://github.com/YOUR_USERNAME)
 
 ---
 
