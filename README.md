@@ -114,7 +114,7 @@ jupyter notebook GenZ.ipynb
 
 **Thanishka Thatikonda**
 B.E. Mathematics and Computing, BITS Pilani
-[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) · [GitHub](https://github.com/YOUR_USERNAME)
+[LinkedIn]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/thanishka-thatikonda-298273342/)) · [GitHub](https://github.com/YOUR_USERNAME)
 
 ---
 
