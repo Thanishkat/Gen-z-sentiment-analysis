@@ -99,7 +99,7 @@ Evaluated using accuracy, per-class precision/recall/F1, and confusion matrix vi
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/gen-z-sentiment-analysis.git
+git clone https://github.com/Thanishkat/gen-z-sentiment-analysis.git
 
 # Open the notebook
 jupyter notebook GenZ.ipynb
@@ -114,7 +114,7 @@ jupyter notebook GenZ.ipynb
 
 **Thanishka Thatikonda**
 B.E. Mathematics and Computing, BITS Pilani
-[LinkedIn]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/thanishka-thatikonda-298273342/)) · [GitHub](https://github.com/YOUR_USERNAME)
+[LinkedIn]((https://www.linkedin.com/in/thanishka-thatikonda-298273342/)) · [GitHub](https://github.com/YOUR_USERNAME)
 
 ---
 
